@@ -32,4 +32,4 @@
 
 ![](https://leetcard.jacoblin.cool/omkarawasthi?ext=heatmap)
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=omkarawasthi&animated=true)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=omkarawasthi)

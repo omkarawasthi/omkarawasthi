@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omkar Awasthi</h1>
 <h3 align="center">A passionate Full Stack developer and Competitive Programmer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarawasthi&label=Profile%20views&color=0e75b6&style=flat" alt="omkarawasthi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarawasthi&label=Profile%20views&color=0e75b6&style=flat" alt="omkarawasthi" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarawasthi" alt="omkarawasthi" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarawasthi" alt="omkarawasthi" /></a> </p> -->
 
 - 🌱 I’m currently learning **Nextjs, LLD,**
 
